@@ -24,12 +24,12 @@ To get started with this project, run
   git clone https://github.com/sidd-abdullah/scrapecom.git
 ```
 
-and make the .env.example variables into a separate .env file, fill them out by making account on OxyLabs & and that's all you need to get started!
+and make the .env.example variables into a separate .env.local file, fill them out by making account on OxyLabs & and that's all you need to get started!
 
 
 ## Acknowledgements
 
-- [Payload](https://github.com/oxylabs) for making this project possible
+- [Oxylabs](https://github.com/oxylabs) for making this project possible
 
 ## License
 
