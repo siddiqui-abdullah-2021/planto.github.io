@@ -1,22 +1,18 @@
-# DigitalHippo - A Modern Fullstack E-Commerce Marketplace for Digital Products
+# ScrapeCom - Discover and explore a wide range of products in real-time, scraped from Google. ScrapeCom is your go-to marketplace for high-quality digital goods.
 
-Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind
+Built with the Next.js 14 App Router, OxyLabs API, TypeScript, Shadcn UI & Tailwind
 
-![Project Image](https://github.com/joschan21/digitalhippo/blob/master/public/thumbnail.jpg)
+![Project Image](https://github.com/sidd-abdullah/scrapecom/blob/main/public/thumbnail.png)
 
 ## Features
 
 - 🛠️ Complete marketplace built from scratch in Next.js 14
 - 💻 Beautiful landing page & product pages included
 - 🎨 Custom artwork included
-- 💳 Full admin dashboard
-- 🛍️ Users can purchase and sell their own products
-- 🛒 Locally persisted shopping cart
-- 🔑 Authentication using Payload
+- 🛍️ Users can browse any products
+- 🛒 Products will be directly scraped from google in real time
 - 🖥️ Learn how to self-host Next.js
 - 🌟 Clean, modern UI using shadcn-ui
-- ✉️ Beautiful emails for signing up and after purchase
-- ✅ Admins can verify products to ensure high quality
 - ⌨️ 100% written in TypeScript
 - 🎁 ...much more
 
@@ -25,15 +21,15 @@ Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind
 To get started with this project, run
 
 ```bash
-  git clone https://github.com/joschan21/digitalhippo.git
+  git clone https://github.com/sidd-abdullah/scrapecom.git
 ```
 
-and copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
+and make the .env.example variables into a separate .env file, fill them out by making account on OxyLabs & and that's all you need to get started!
 
 
 ## Acknowledgements
 
-- [Payload](https://link.joshtriedcoding.com/payload) for making this project possible
+- [Payload](https://github.com/oxylabs) for making this project possible
 
 ## License
 
